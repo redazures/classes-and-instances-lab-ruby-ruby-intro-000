@@ -1,4 +1,4 @@
-class person
+class Person
   puts "#{person} is not piece of shit"
 end
 
