@@ -4,3 +4,5 @@ end
 
 james=Person.new
 ben=Person.new
+
+puts james
