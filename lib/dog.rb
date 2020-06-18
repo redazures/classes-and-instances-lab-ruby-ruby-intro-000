@@ -1,4 +1,5 @@
 class Dog
+  puts"barks"
 end
 
 cat = dog.new
