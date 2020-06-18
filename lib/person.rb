@@ -2,5 +2,5 @@ class Person
   puts "#{person} is not piece of shit"
 end
 
-james=person.new
-ben=person.new
+james=Person.new
+ben=Person.new
