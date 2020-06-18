@@ -3,6 +3,6 @@ class Person
 end
 
 alan_kay=Person.new
-ben=Person.new
+adele_goldberg=Person.new
 
 puts james
