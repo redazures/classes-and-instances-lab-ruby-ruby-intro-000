@@ -1,5 +1,5 @@
 class Person
-  puts "#{person} is not piece of shit"
+  puts "#{Person} is not piece of shit"
 end
 
 james=Person.new
